@@ -1,0 +1,116 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+
+
+p 	{
+ 	font-family:'Maria Pro',Helvetica,Arial,sans-serif;
+ 	font-style: lighter;
+	font-size: 140%;
+	text-align: justify;
+	color: white; 
+	letter-spacing: 2.5px;
+  top: 10%;
+
+	
+}
+
+p.title {
+position: relative;
+text-align: center;
+
+}
+
+p.subtitle {
+  font-size: 100%;
+  position: relative;
+  text-align: center;
+
+}
+
+
+
+.image{
+   background-image: url(images/exvotod.png);
+    display: block;
+    position: relative;
+    top: 120px;
+    width: 840px;
+    height: 649px;
+    left: 20%;
+
+ 
+}
+
+
+ 
+
+.image:hover{ 
+ background-image: url(images/madremiad.png);
+ display: block;
+ position: relative;
+   width: 840px;
+    height: 649px;
+  
+
+  }
+
+
+
+
+.placa {
+  display: block;
+    margin: auto;
+    position: relative;
+    width: 60%;
+    text-align: center;
+    top: 20%;
+    left: 2%;
+
+
+
+
+ }
+
+
+
+
+#placa1 {
+  font-size: 17px;
+  text-align: justify;
+  letter-spacing: 5px;
+  word-spacing: -3px;
+}
+
+.final{
+ 	display: block;
+  left: 42%;
+  top: 25%;
+	position: relative;
+  padding-bottom: 100px;
+  padding-top: 20px;
+  font-size: 12px;
+}
+
+
+	
+
+a.link:visited {
+	color: white;
+	text-decoration: none;
+}
+
+a.link:hover {
+
+	color: white;
+	text-decoration: bolder;
+
+
+}
+
+a.link {
+  text-decoration: none;
+}

@@ -1,0 +1,67 @@
+
+
+html {
+	height:100%;
+	width: 100%;
+}
+
+body {
+	background-color: black;
+	height:100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.title {
+	text-align: center;
+	width: 100%;
+	font-family:'Maria Pro',Helvetica,Arial,sans-serif;
+	font-size: 140%;
+	color: white;
+	letter-spacing: 26px;
+	padding: 1%;
+	margin: 3%;
+}
+
+
+.images{
+	margin: auto;
+    width: 100%;
+    padding-left: 25%;
+    padding-right: 20%;
+}
+
+
+.foto{
+	display: inline;
+	margin: auto;
+	opacity: .01;
+	height: 30%;
+	width: 30%;
+}
+
+.foto:hover{
+	opacity: 0.9;
+	filter: alpha(opacity=30);
+}
+
+.bottom {
+	text-align: center;
+	width: 100%;
+	height: 10%;
+	font-family:'Maria Pro',Helvetica,Arial,sans-serif;
+	font-size: 100%;
+	color: white;
+	letter-spacing: 26px;
+	padding: 1%;
+	margin: 3%;
+}
+
+
+
+
+
+
+
+
